@@ -1,0 +1,19 @@
+header{
+    background-color: silver;
+    border: 2px solid black;
+    margin-bottom: 10px;
+}
+
+article{
+    background-color: pink;
+    border: 2px solid black;
+    width: 560px;
+    float: right
+}
+
+nav{
+    background-color: yellow;
+    border: 2px solid black;
+    width: 180px;
+    float: left;
+}
