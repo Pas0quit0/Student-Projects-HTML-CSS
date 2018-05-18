@@ -1,0 +1,20 @@
+html,body{
+  background-image: url("exercicio_novas_tecnologias/bg.gif");
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+header{
+  padding: 0;
+  font-family: arial narrow;
+}
+
+article{
+  width: 40%;
+  height: 40%;
+}
+
+img{
+  width: 30%
+}

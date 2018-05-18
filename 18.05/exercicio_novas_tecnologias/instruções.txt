@@ -1,0 +1,25 @@
+Configurações gerais:
+	-Inserir o título em um elemento header.
+	-Inserir as imagens em um elemento article.
+	-Inserir as informações de copyright em um elemento footer.
+	-Cor da listra vertical esquerda: #eb5a49
+	-Fonte do texto: arial narrow
+
+Breakpoints:
+até 480px
+	-Tamanho de fonte do body: 14px
+	-Tamanho de fonte do título: default
+	-Tamanho de fonte do rodapé: default
+	-Espessura da listra vertical esquerda: 10px
+
+De 481px até 767px
+	-Tamanho de fonte do body: 16px
+	-Tamanho de fonte do título: default
+	-Tamanho de fonte do rodapé: default
+  -Espessura da listra vertical esquerda: 15px
+	
+De 768px em diante
+	-Tamanho de fonte do body: 16px;
+	-Tamanho de fonte do título: 3.5rem
+	-Tamanho de fonte do rodapé: 0.75rem
+	-Espessura da listra vertical esquerda: 35px
