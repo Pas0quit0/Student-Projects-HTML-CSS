@@ -1,0 +1,6 @@
+-Use estilos para deixar pagina.html semelhante às capturas de tela.
+-Use design resposivo e layout flexível. Use um único breakpoint de 480px.
+-Você não deve alterar o código HTML. Todas as modificações devem ser feitas através de estilos CSS.
+-Pesquise a propriedade @font-face para poder utilizar o arquivo de fonte RAGE.TTF.
+-Pesquise a propriedade box-shadow para aplicá-la nas fotos (observe a imagem final_estreita.png). A cor utilizada é #6a6a6a.
+-A fonte utilizada no texto é trebuchet ms.

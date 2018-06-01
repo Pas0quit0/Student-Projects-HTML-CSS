@@ -1,0 +1,66 @@
+@font-face {
+    font-family: RAGE;
+    src: url(RAGE.TTF);
+}
+
+body,html{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image: url(backgroundilha.jpg);
+}
+
+h1{
+    font-size: 50pt;
+    font-family: RAGE;
+    color: white;
+    padding: 1%;
+    padding-left: 3%;  
+    background-image: url(bg_titulo.png)
+}
+
+#principal{
+    font-family: 'Trebuchet MS';
+    width: 92%;
+    margin-left: auto;
+    margin-right: auto;
+    background-image: url(bg_texto.png);
+    padding: 2%;
+}
+
+#principal p{
+    text-align: justify;
+}
+
+#imagens{
+    width: 100%;
+    margin: auto;
+}
+
+#imagens img{    
+    border: solid white 5px;
+    margin: 2px;
+    box-shadow: 3px 3px 3px  #6a6a6a
+}
+
+@media (max-width:480px){
+    h1{
+        font-size: 35pt;
+        padding-left: 3%;
+    }
+    
+    #principal{
+        width: 90%;
+
+    }
+
+    #imagens{ 
+        text-align: center;  
+    }
+
+    img{ 
+        width: 90%;
+    }
+}
